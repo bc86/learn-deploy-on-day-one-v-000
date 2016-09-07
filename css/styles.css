@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#brett-cole-cover {
+  background-image: url("http://i.imgur.com/4GBLYyR.jpg.jpg");
+}
+
+#brett-cole-card {
+  background-image: url("http://i.imgur.com/MqOPDhb.jpg");
+}
+
 #matt-hallquist-cover {
   background-image: url("http://i.imgur.com/psQCXny.jpg");
 }
